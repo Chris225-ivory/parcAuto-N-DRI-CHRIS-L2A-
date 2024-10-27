@@ -18,4 +18,3 @@ Structure du projet:
 •ContratDeLocation : représente un contrat entre un client et un véhicule, en fonction de la durée de la location.
 •Exceptions : VehiculeIndisponibleException et ClientNonAutoriseException pour gérer les erreurs spécifiques.
 
-https://github.com/Chris225-ivory/parcAuto-N-DRI-CHRIS-L2A-
